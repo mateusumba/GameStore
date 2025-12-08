@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game Store</string>
+    <string name="company_name">GAMER\'S PARADISE</string>
+    <string name="featured_tab">Featured</string>
+    <string name="history_tab">History</string>
+    <string name="profile_tab">Profile</string>
+    <string name="purchasable_items">Purchasable Items</string>
+    <string name="buy_button">Buy with 1-click</string>
+    <string name="purchase_toast">Acabou de comprar o %s por $%.2f</string>
+</resources>
